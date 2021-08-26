@@ -21,6 +21,7 @@
 
   ##
 
+![Snake animation](https://github.com/gialencar/gialencar/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **gialencar/gialencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

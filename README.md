@@ -1,7 +1,7 @@
-### Olá!!! Eu sou o Gilson :raising_hand_man:
-- 🌱 Estudando Desenvolvimento Web na Trybe
-- 🔭 Movido pela curiosidade
-- ☕ Abasteça somente com Café
+### Olá!!! Eu sou Gilson :raising_hand_man:
+- 🌱 Estudando Desenvolvimento Web na Trybe 🚀
+- 🔭 Movido pela curiosidade 
+- ⚡ Abasteça somente com Café ☕
   
   ##
  

@@ -1,11 +1,10 @@
 # Olá!!! Eu sou o Gilson :raising_hand_man:
-<!--
+
 - 🌱 Estudando Desenvolvimento Web na Trybe 🚀
 - 🔭 Movido pela curiosidade 
 - ⚡ Abasteça somente com Café ☕
   
   ##
- -->
 <div>
   <a href="https://github.com/gialencar">
   <img width=49.5% src="https://github-readme-stats.vercel.app/api?username=gialencar&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>

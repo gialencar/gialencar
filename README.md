@@ -20,8 +20,8 @@
 
 <div>
   <a href="https://github.com/gialencar">
-  <img width=49.5% src="https://github-readme-stats.vercel.app/api?username=gialencar&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=gialencar&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img width=45% src="https://github-readme-stats.vercel.app/api?username=gialencar&include_all_commits=true&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gialencar&layout=compact&langs_count=7"/>
 </div>
 
 <!--

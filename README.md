@@ -7,6 +7,14 @@
 
 ⚐ Based in Pernambuco, Brazil
 
+ϟ Coffee drinker
+
+ϟ Never nester
+
+ϟ Guitar player
+
+ϟ Photography enthusiast
+
 ϟ Currently seeking new opportunities
 
 ϟ Recently started learning french as a third language

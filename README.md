@@ -7,7 +7,7 @@
 
 ⚐ Based in Pernambuco, Brazil
 
-ϟ Coffee drinker
+ϟ Average Coffee Enjoyer
 
 ϟ Never nester
 
